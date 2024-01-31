@@ -11,6 +11,7 @@
 /* CSS pour le titre et la description */
 h1 {
   animation: slideIn 1s ease-out;
+  color: blue;
 }
 
 p {
